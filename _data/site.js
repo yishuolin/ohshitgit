@@ -120,7 +120,7 @@ module.exports = {
         },
         {
             label: "繁體中文",
-            code: "zh_TW",
+            code: "zh-TW",
             arialabel: "其他語言",
         },
         {
